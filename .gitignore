@@ -11,6 +11,8 @@
 .mtj.tmp/
 
 # Package Files #
+.DS_Store
+target/
 *.jar
 *.war
 *.nar
